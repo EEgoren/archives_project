@@ -1,4 +1,4 @@
-# Архив сайта **Solar Low-Tech Magazine**
+<img width="585" height="307" alt="image" src="https://github.com/user-attachments/assets/95946a07-2e73-4966-aa84-21e6a9e0e712" /># Архив сайта **Solar Low-Tech Magazine**
 <p align="center">
   <img width="800" height="536" alt="TautesHeim_Ferienhaus_dithered" src="https://github.com/user-attachments/assets/0356d8d5-3e12-4380-8734-22d7db3f0374" />
 </p>
@@ -46,4 +46,40 @@
   <img width="1836" height="863" alt="lowtechcoffee" src="https://github.com/user-attachments/assets/7584ca2a-1786-420d-bf18-f46b81bc054a" />
 </p>
 ---
-## 
+
+## ArchiveReady
+<p align="center">
+  <img width="585" height="307" alt="lowtecharchive" src="https://github.com/user-attachments/assets/18ca4f0e-5c68-4a8b-ac80-0657a0e03966" />
+</p>
+
+Этот раздел содержит результаты анализа архивируемости сайта **solar.lowtechmagazine.com** с использованием сервиса **ArchiveReady**, основанного на методологии **CLEAR** (Cohesion, Accessibility, Metadata, Standards Compliance).
+Анализ позволяет оценить, насколько сайт пригоден для долгосрочного веб-архивирования с учётом технических ограничений, структуры контента и корректности разметки.
+
+## Результаты
+
+* **Итоговый рейтинг:** **73%**
+* **Accessibility:** 56%
+* **Cohesion:** 83%
+* **Metadata:** 100%
+* **Standards Compliance:** 53%
+
+Все проверенные HTTP-заголовки сформированы корректно (Metadata 100%). 
+
+Сайт имеет хорошую внутреннюю связность (Cohesion 83%): большинство страниц и изображений доступны архиватору, ссылки внутри статей работают правильно. Снижение вероятно связано с тем, что часть контента ссылается на внешние ресурсы.
+
+Низкая доступность (Accessibility 56%) может быть объяснена не вполне стандартными паттернами навигации, сайт не приспособлен для читателей использующих вспомогательные технологии.
+ 
+Половина HTML/CSS файлов имеет отклонения от стандартов (Standards Compliance 53%).
+
+Эти особенности снижают формальную соответствие стандартам архивации.
+
+---
+
+
+---
+
+
+
+
+
+
