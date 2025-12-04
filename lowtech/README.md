@@ -110,6 +110,8 @@ text/html; charset=UTF-8              │ 60992023  │  1868 │
  text/plain; charset=UTF-8             │ 209       │     1 │
  text/xml; charset=UTF-8               │ 74959522  │   941 │
 
+metawarc stats -m exts
+
 
 ---
 
