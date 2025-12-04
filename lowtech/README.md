@@ -45,6 +45,7 @@
 <p align="center">
   <img width="1836" height="863" alt="lowtechcoffee" src="https://github.com/user-attachments/assets/7584ca2a-1786-420d-bf18-f46b81bc054a" />
 </p>
+
 ---
 
 ## ArchiveReady
@@ -74,6 +75,7 @@
 Эти особенности снижают формальную соответствие стандартам архивации.
 
 ---
+
 
 
 ---
