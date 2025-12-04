@@ -1,0 +1,84 @@
+Solar.LowTechMagazine.com Archive Report 
+======================================= 
+ 
+ARCHIVE SUMMARY 
+-------------- 
+Archive created: 24.11.2025 15:27:16,66 
+Source: https://solar.lowtechmagazine.com 
+Command: wpull "https://solar.lowtechmagazine.com" --recursive --level 5 --page-requisites --span-hosts --hostnames solar.lowtechmagazine.com --adjust-extension --backup-converted --sitemaps --no-robots --no-check-certificate --warc-file "solar-lowtech-complete" --warc-cdx --warc-max-size 1000000000 --database "site-archive.db" --delete-after --wait 2 --timeout 60 --tries 3 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" --html-parser html5lib --retry-connrefused --retry-dns-error 
+ 
+FILES GENERATED 
+-------------- 
+ Том в устройстве C имеет метку ADL900PRO1
+ Серийный номер тома: 8803-289E
+
+ Содержимое папки C:\Archives\lowtech
+
+24.11.2025  13:23       807 404 990 solar-lowtech-complete-00000.warc.gz
+24.11.2025  13:23           625 135 solar-lowtech-complete-meta.warc.gz
+
+ Содержимое папки C:\Archives\lowtech
+
+24.11.2025  13:23         4 302 004 solar-lowtech-complete.cdx
+
+ Содержимое папки C:\Archives\lowtech
+
+24.11.2025  13:23         7 225 344 site-archive.db
+               4 файлов    819 557 473 байт
+               0 папок  1 457 588 977 664 байт свободно
+ 
+FILE SIZES 
+---------- 
+807404990 bytes - solar-lowtech-complete-00000.warc.gz 
+625135 bytes - solar-lowtech-complete-meta.warc.gz 
+4302004 bytes - solar-lowtech-complete.cdx 
+7225344 bytes - site-archive.db 
+ 
+DATABASE STATISTICS 
+------------------ 
+Total URLs processed: 18715
+Successfully downloaded: 14463
+URLs with errors: 0
+URLs in WARC files: 0
+ 
+LANGUAGE BREAKDOWN 
+------------------ 
+German articles: 1011
+English articles: 1
+Dutch articles: 1569
+Spanish articles: 1795
+ 
+YEARLY BREAKDOWN 
+--------------- 
+2025 articles: 653
+2024 articles: 1031
+2023 articles: 571
+2022 articles: 699
+2021 articles: 689
+2020 articles: 826
+2019 articles: 557
+2018 articles: 616
+ 
+SAMPLE ARTICLES ARCHIVED 
+----------------------- 
+https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/images/dithers/0_32-clamp-MODIF_dithered.png
+https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/
+https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/images/dithers/oven-closed_dithered.png
+https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/
+https://solar.lowtechmagazine.com/2025/11/winter-is-coming-build-a-solar-powered-foot-stove/
+ 
+CONTENT TYPES 
+------------- 
+HTML pages: 31
+CSS files: 1
+Images: 5946
+Other files: 2
+ 
+QUALITY CHECK 
+------------- 
+Homepage archived: 1
+Wind power article (2019): 1
+Bicycles article (2025): 1
+1
+ 
+ARCHIVE COMPLETED SUCCESSFULLY 
