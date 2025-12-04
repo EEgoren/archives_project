@@ -78,19 +78,19 @@
 
 metawarc analyze solar-lowtech-complete-00000.warc.gz
 
-mimes                     files       size          share
-----------------------  -------  ---------  -------------
-image/webp                 5822  504585914   56.508
-image/png                  5926  249375202   27.9272
-text/xml                    941   74959522    8.39463
-text/html                  1896   61005122    6.83189
-image/jpeg                   18    2974897    0.333155
-text/css                      1      27194    0.00304543
-application/javascript        2      12030    0.00134723
-image/svg+xml                 2       4995    0.000559384
-application/json              1        764    8.55595e-05
-text/plain                    1        209    2.34057e-05
-#total                    14610  892945849  100
+mimes                  │   files │      size │         share
+----------------------  │------- │ --------- │ -------------
+image/webp              │   5822 │ 504585914 │  56.508
+image/png               │   5926 │ 249375202 │  27.9272
+text/xml                │    941 │  74959522 │   8.39463
+text/html               │   1896 │  61005122 │   6.83189
+image/jpeg              │     18 │   2974897 │   0.333155
+text/css                │      1 │     27194 │   0.00304543
+application/javascript  │      2 │     12030 │   0.00134723
+image/svg+xml           │      2 │      4995 │   0.000559384
+application/json        │      1 │       764 │   8.55595e-05
+text/plain              │      1 │       209 │   2.34057e-05
+#total                  │  14610 │ 892945849 │ 100
 
 
 
