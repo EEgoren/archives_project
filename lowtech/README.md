@@ -76,6 +76,39 @@
 
 ---
 
+metawarc analyze solar-lowtech-complete-00000.warc.gz
+
+mimes                     files       size          share
+----------------------  -------  ---------  -------------
+image/webp                 5822  504585914   56.508
+image/png                  5926  249375202   27.9272
+text/xml                    941   74959522    8.39463
+text/html                  1896   61005122    6.83189
+image/jpeg                   18    2974897    0.333155
+text/css                      1      27194    0.00304543
+application/javascript        2      12030    0.00134723
+image/svg+xml                 2       4995    0.000559384
+application/json              1        764    8.55595e-05
+text/plain                    1        209    2.34057e-05
+#total                    14610  892945849  100
+
+
+
+
+metawarc stats -m mimes
+
+ mime                                  ┃ size      ┃ count ┃
+ application/javascript; charset=UTF-8 │ 12030     │     2 │
+ application/json                      │ 764       │     1 │
+ image/jpeg                            │ 2974897   │    18 │
+ image/png                             │ 249375202 │  5926 │
+ image/svg+xml                         │ 4995      │     2 │
+ image/webp                            │ 504585914 │  5822 │
+ text/css                              │ 27194     │     1 │
+text/html                             │ 13099     │    28 │
+text/html; charset=UTF-8              │ 60992023  │  1868 │
+ text/plain; charset=UTF-8             │ 209       │     1 │
+ text/xml; charset=UTF-8               │ 74959522  │   941 │
 
 
 ---
