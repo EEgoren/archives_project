@@ -99,7 +99,11 @@
 
 ### 2 `metawarc metadata --output solar_lowtech_meta.jsonl solar-lowtech-complete-00000.warc.gz
 
+[Файл метаданных]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/cat_bounce_meta.jsonl])содержит построчные метаданные большого количества изображений и HTML-страниц.
+
 ### 3 `metawarc index solar-lowtech-complete-00000.warc.gz`
+
+[Файл метаданных]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/cat_bounce_meta.jsonl]) 
 
 ### 4. `metawarc stats -m mimes`
 
