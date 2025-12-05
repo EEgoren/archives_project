@@ -86,11 +86,12 @@ HTML и CSS в целом соответствуют стандартам (Stand
 Архив крайне мал и почти полностью состоит из изображений - JPEG, GIF и WebP (учтённые как неизвестный MIME). Это соответствует природе страницы Message, где всё визуально-анимационное реализовано через картинки. HTML и CSS занимают менее 1% общего объёма, что типично для минималистичных страниц.
 
 ### 2 `metawarc metadata --output cat_bounce_meta.jsonl cat-bounce-message.warc.gz`
-[только одной страницы]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/cat_bounce_meta.jsonl])
+
+[Файл метаданных]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/cat_bounce_meta.jsonl]) содержит минимальную информацию, поскольку большинство ресурсов страницы являются изображениями без расширенных атрибутов.
 
 ### 3 `metawarc index cat-bounce-message.warc.gz`
 
-[только одной страницы]([])
+[База данных]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/metawarc.db]) успешно создана и включает основные технические параметры ресурсов (URL, MIME-типы, размеры). Она позволяет выполнять статистические команды MetaWarc.  
 
 ### 4 `metawarc stats -m mimes`
 
