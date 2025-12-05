@@ -67,14 +67,6 @@
 ---
 ## ArchiveReady
 
-<img width="582" height="317" alt="image" src="https://github.com/user-attachments/assets/fe74ac1a-413d-40de-b08c-38ac5fc3d077" />
-
-Вот полностью оформленный **раздел ArchiveReady** для сайта *MarkdownGuide.org*, написанный в том же стиле, что и предыдущие (100r, Low-Tech Magazine, Cat-Bounce), с центровкой изображения и интерпретацией всех показателей.
-
----
-
-# ArchiveReady
-
 Этот раздел содержит результаты анализа архивируемости сайта **MarkdownGuide.org** с помощью сервиса **ArchiveReady**, который оценивает ресурсы по методологии **CLEAR** (Cohesion, Accessibility, Metadata, Standards Compliance).
 Проверка позволяет понять, насколько сайт пригоден для долгосрочного веб-архивирования, а также выявить технические особенности, влияющие на качество сохранения.
 
