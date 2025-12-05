@@ -78,41 +78,60 @@
 
 metawarc analyze solar-lowtech-complete-00000.warc.gz
 
-mimes                  │   files │      size │         share
-----------------------  │------- │ --------- │ -------------
-image/webp              │   5822 │ 504585914 │  56.508
-image/png               │   5926 │ 249375202 │  27.9272
-text/xml                │    941 │  74959522 │   8.39463
-text/html               │   1896 │  61005122 │   6.83189
-image/jpeg              │     18 │   2974897 │   0.333155
-text/css                │      1 │     27194 │   0.00304543
-application/javascript  │      2 │     12030 │   0.00134723
-image/svg+xml           │      2 │      4995 │   0.000559384
-application/json        │      1 │       764 │   8.55595e-05
-text/plain              │      1 │       209 │   2.34057e-05
-#total                  │  14610 │ 892945849 │ 100
+### MIME-типы (результаты `metawarc analyze`)
+
+| MIME-тип                 | files | size       | share      |
+|--------------------------|-------|------------|------------|
+| image/webp               | 5822  | 504 585 914 | 56.508    |
+| image/png                | 5926  | 249 375 202 | 27.9272   |
+| text/xml                 | 941   | 74 959 522  | 8.39463   |
+| text/html                | 1896  | 61 005 122  | 6.83189   |
+| image/jpeg               | 18    | 2 974 897   | 0.333155  |
+| text/css                 | 1     | 27 194      | 0.003045  |
+| application/javascript   | 2     | 12 030      | 0.001347  |
+| image/svg+xml            | 2     | 4 995       | 0.000559  |
+| application/json         | 1     | 764         | 0.000085  |
+| text/plain               | 1     | 209         | 0.000023  |
+| **#total**               | 14610 | 892 945 849 | 100      |
+
 
 
 
 
 metawarc stats -m mimes
 
- mime                                  ┃ size      ┃ count ┃
- application/javascript; charset=UTF-8 │ 12030     │     2 │
- application/json                      │ 764       │     1 │
- image/jpeg                            │ 2974897   │    18 │
- image/png                             │ 249375202 │  5926 │
- image/svg+xml                         │ 4995      │     2 │
- image/webp                            │ 504585914 │  5822 │
- text/css                              │ 27194     │     1 │
-text/html                             │ 13099     │    28 │
-text/html; charset=UTF-8              │ 60992023  │  1868 │
- text/plain; charset=UTF-8             │ 209       │     1 │
- text/xml; charset=UTF-8               │ 74959522  │   941 │
+| MIME-тип                                 | size       | count |
+|-------------------------------------------|------------|-------|
+| application/javascript; charset=UTF-8     | 12 030     | 2     |
+| application/json                          | 764        | 1     |
+| image/jpeg                                | 2 974 897  | 18    |
+| image/png                                 | 249 375 202 | 5926  |
+| image/svg+xml                             | 4 995      | 2     |
+| image/webp                                | 504 585 914 | 5822  |
+| text/css                                  | 27 194     | 1     |
+| text/html                                 | 13 099     | 28    |
+| text/html; charset=UTF-8                  | 60 992 023 | 1868  |
+| text/plain; charset=UTF-8                 | 209        | 1     |
+| text/xml; charset=UTF-8                   | 74 959 522 | 941   |
 
 metawarc stats -m exts
 
-
+| Расширение | size        | count |
+|------------|-------------|-------|
+|  | 60 407 369  | 1826  |
+| com        | 26 618      | 2     |
+| css        | 27 194      | 1     |
+| html       | 12 157      | 26    |
+| html%29    | 26 618      | 2     |
+| jpg        | 3 081 369   | 26    |
+| js         | 12 030      | 2     |
+| json       | 764         | 1     |
+| md         | 146 399     | 11    |
+| png        | 249 654 691 | 5947  |
+| svg        | 4 995       | 2     |
+| txt        | 209         | 1     |
+| webp       | 504 585 914 | 5822  |
+| xml        | 74 959 522  | 941   |
 ---
 
 
