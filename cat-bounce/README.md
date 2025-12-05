@@ -1,7 +1,8 @@
 # Архив страницы Cat-Bounce: Message
 
 <p align="center">
-<img width="1078" height="717" alt="image" src="https://github.com/user-attachments/assets/a8e4e6dd-94d8-43ad-b2fa-57174c3f9ae1" />
+<img width="1077" height="720" alt="image" src="https://github.com/user-attachments/assets/cfc422a2-3f3a-49d2-a58b-fda75107ddc7" />
+
 </p>
 
 Страница https://cat-bounce.com/message/index.html является отдельным мини-проектом внутри Cat-Bounce - это статическая HTML-страница, созданная как сообщение пользователям. В отличие от основной интерактивной страницы Cat-Bounce, раздел Message представляет собой самостоятельный арт-фрагмент ранней интернет-культуры.
