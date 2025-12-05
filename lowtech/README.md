@@ -103,7 +103,7 @@
 
 ### 3 `metawarc index solar-lowtech-complete-00000.warc.gz`
 
-[База данных][https://github.com/EEgoren/archives_project/blob/main/lowtech/metawarc.db] успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента), что особенно полезно для крупного мультимедийного архива Low-Tech Magazine.
+([База данных][https://github.com/EEgoren/archives_project/blob/main/lowtech/metawarc.db]) успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента), что особенно полезно для крупного мультимедийного архива Low-Tech Magazine.
 
 ### 4. `metawarc stats -m mimes`
 
