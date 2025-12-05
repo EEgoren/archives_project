@@ -92,7 +92,7 @@ HTML и CSS в целом соответствуют стандартам (Stand
 
 ### 3 `metawarc index cat-bounce-message.warc.gz`
 
-База данных **[`metawarc.db`]([https://github.com/EEgoren/archives_project/blob/main/cat-bounce/metawarc.db])** успешно создана и включает основные технические параметры ресурсов (URL, MIME-типы, размеры). Она позволяет выполнять статистические команды MetaWarc.  
+База данных **[`metawarc.db`](https://github.com/EEgoren/archives_project/blob/main/cat-bounce/metawarc.db)** успешно создана и включает основные технические параметры ресурсов (URL, MIME-типы, размеры). Она позволяет выполнять статистические команды MetaWarc.  
 
 ### 4 `metawarc stats -m mimes`
 
