@@ -125,18 +125,11 @@ image/svg+xml            |       2 |      5897 |   0.00324829
 
 ### 2. `metawarc metadata --output 100r_meta.jsonl 100r-co-00000.warc.gz`
 
-Несмотря на корректное выполнение команды `metawarc metadata`, получить полноценный набор метаданных не удалось. Большинство файлов было пропущено из-за ограничений встроенных парсеров (`MachoFile`, `PRCFile`, расширенные JPEG-варианты и др.), поэтому итоговый файл метаданных оказался практически пустым и не содержит значимой информации для анализа.
-
-Полученный файл можно посмотреть в репозитории: **[`100r_meta.jsonl`](https://github.com/EEgoren/archives_project/blob/main/100%20Rabbits/100r_meta.jsonl)**
-
-Таким образом, для архива 100r.co:
-
-- метаданные файлов не играют критической роли, поскольку сайт содержит главным образом изображения и статические HTML-страницы;  
-- отсутствие подробных EXIF/XMP или PDF-метаданных не влияет на воспроизводимость сайта в инструментах типа ReplayWeb.page.
+Файл метаданных **[`100r_meta.jsonl`](https://github.com/EEgoren/archives_project/blob/main/100%20Rabbits/100r_meta.jsonl)** содержит построчные метаданные большого количества изображений и HTML-страниц. Стоит уточнить, что некоторые файлы были пропущены из-за ограничений встроенных парсеров (`MachoFile`, `PRCFile`, расширенные JPEG-варианты и др.)
 
 ### 3. `metawarc index 100r-co-00000.warc.gz`
 
-В результате создана служебная БД **[`metawarc.db`](https://github.com/EEgoren/archives_project/blob/main/100%20Rabbits/metawarc.db)** содержащая HTTP метаданные для использования командой stats
+В результате создана служебная база данных **[`metawarc.db`](https://github.com/EEgoren/archives_project/blob/main/100%20Rabbits/metawarc.db)** содержащая HTTP метаданные для использования командой stats
 
 ### 4. `metawarc stats -m mimes`
 
