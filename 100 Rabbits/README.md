@@ -115,7 +115,7 @@ image/svg+xml            |       2 |      5897 |   0.00324829
 
 ### 4. `metawarc stats -m mimes`
 
-| MIME-тип                               | размер     | количество |
+| mime                             | размер     | количество |
 |----------------------------------------|------------|------------|
 | application/javascript; charset=utf-8  | 8 212      | 3          |
 | application/octet-stream               | 30 083     | 1          |
