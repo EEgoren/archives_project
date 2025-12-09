@@ -1,0 +1,69 @@
+MarkdownGuide.org Archive Report 
+=============================== 
+ 
+ARCHIVE SUMMARY 
+-------------- 
+Archive created: 24.11.2025 15:15:35,74 
+Source: https://www.markdownguide.org 
+Command: wpull "https://www.markdownguide.org" --recursive --level 3 --page-requisites --no-robots --no-check-certificate --warc-file "markdown-guide-complete" --warc-cdx --database "site-archive.db" --delete-after --wait 1 
+ 
+FILES GENERATED 
+-------------- 
+ Том в устройстве C имеет метку ADL900PRO1
+ Серийный номер тома: 8803-289E
+
+ Содержимое папки C:\Archives\markdownguide
+
+24.11.2025  13:31         7 196 401 markdown-guide-complete.warc.gz
+
+ Содержимое папки C:\Archives\markdownguide
+
+24.11.2025  13:31            38 534 markdown-guide-complete.cdx
+
+ Содержимое папки C:\Archives\markdownguide
+
+24.11.2025  13:31           225 280 site-archive.db
+               3 файлов      7 460 215 байт
+               0 папок  1 457 583 300 608 байт свободно
+ 
+FILE SIZES 
+---------- 
+7196401 bytes - markdown-guide-complete.warc.gz 
+38534 bytes - markdown-guide-complete.cdx 
+225280 bytes - site-archive.db 
+ 
+DATABASE STATISTICS 
+------------------ 
+Total URLs processed: 794
+Successfully downloaded: 184
+URLs with errors: 0
+URLs in WARC files: 0
+ 
+CONTENT BREAKDOWN 
+---------------- 
+Getting Started pages: 1
+Basic Syntax pages: 2
+Extended Syntax pages: 1
+Cheat Sheet pages: 2
+Tools pages: 74
+API pages: 3
+ 
+SAMPLE PAGES ARCHIVED 
+--------------------- 
+https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/api/v1/basic-syntax.json
+ 
+CONTENT TYPES 
+------------- 
+HTML pages: 7
+CSS files: 4
+JavaScript: 5
+Images: 79
+ 
+QUALITY CHECK 
+------------- 
+Homepage archived: 1
+Cheat sheet archived: 1
+Basic syntax archived: 1
+ 
+ARCHIVE COMPLETED SUCCESSFULLY 
