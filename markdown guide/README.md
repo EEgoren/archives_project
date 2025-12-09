@@ -97,4 +97,29 @@ MarkdownGuide - хороший пример статического, струк
 
 В целом оценка **79%** говорит о том, что ресурс **хорошо подготовлен к долгосрочному хранению** и будет корректно восстанавливаться архиваторами.
 
+## MetaWarc
 
+
+metawarc analyze markdown-guide-complete.warc.gz
+
+| MIME-тип                     | files | size     | share      |
+|------------------------------|-------|----------|------------|
+| image/png                    | 74    | 4242691  | 45.9665%   |
+| image/jpeg                   | 3     | 2029608  | 21.9893%   |
+| text/html                    | 96    | 1447543  | 15.6831%   |
+| application/javascript       | 5     | 950454   | 10.2975%   |
+| text/css                     | 4     | 375231   | 4.06536%   |
+| application/pdf              | 1     | 135051   | 1.46318%   |
+| application/json             | 2     | 23461    | 0.254183%  |
+| image/svg+xml                | 8     | 21264    | 0.23038%   |
+| application/octet-stream     | 1     | 2717     | 0.0294367% |
+| image/x-icon                 | 1     | 1944     | 0.0210618% |
+| **#total**                   | 195   | 9229964  | **100%**   |
+
+
+
+metawarc metadata --output markdown_guide_meta.jsonl markdown-guide-complete.warc.gz
+
+
+
+metawarc index markdown-guide-complete.warc.gz
