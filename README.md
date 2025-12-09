@@ -9,11 +9,11 @@
 
 В коллекцию входят следующие сайты:
 
-1. **AirportCod.es** - визуальный справочник IATA-кодов аэропортов.
-2. **MarkdownGuide.org** - авторитетный ресурс по синтаксису Markdown.
-3. **Solar Low-Tech Magazine** - автономный сайт, посвящённый низкотехнологичным решениям, по словам разработчиков работает от энергии солнца.
-4. **100r.co** - проект о минимализме, путешествиях и низкотехнологичном программировании.
-5. **Cat-Bounce Message** - отдельная арт-страница из проекта Cat-Bounce.
+1. **[AirportCod.es](https://airportcod.es/)** - визуальный справочник IATA-кодов аэропортов.
+2. **[MarkdownGuide.org](https://www.markdownguide.org/)** - авторитетный ресурс по синтаксису Markdown.
+3. **[Solar Low-Tech Magazine](https://solar.lowtechmagazine.com/)** - автономный сайт, посвящённый низкотехнологичным решениям, по словам разработчиков работает от энергии солнца.
+4. **[100r.co](https://100r.co/site/home.html)** - проект о минимализме, путешествиях и низкотехнологичном программировании.
+5. **[Cat-Bounce Message]()** - отдельная арт-страница из проекта Cat-Bounce.
 
 Эти сайты были отобраны как примеры *разных типов интернет-культуры* - образовательной, художественной, технологической и документирующей.
 
@@ -78,7 +78,7 @@
 ## AirportCod.es
 
 * Проект: визуальный справочник IATA-кодов.
-* Архив WARC успешно создан `airport-level1.warc.gz`.
+* Архив WARC успешно создан [`airport-level1.warc.gz`](https://drive.google.com/file/d/1M6HodSnUHE3HlnCU6jFWfkDDImF5STcR/view?usp=drive_link).
 * **ArchiveReady: 80%**
 
   * Accessibility: 71%
@@ -95,7 +95,7 @@
 
 
 * Проект: справочник по Markdown.
-* Архив: `markdown-guide-complete.warc.gz`.
+* Архив: [`markdown-guide-complete.warc.gz`](https://drive.google.com/file/d/1hAVEuNEKsN3d5e2AYjf32SmNJJORTuCU/view?usp=drive_link).
 * **ArchiveReady: 79%**
 
   * Cohesion: 90%
@@ -112,7 +112,7 @@
 
 
 * Проект: автономный солнечный сайт, ориентированный на низкие технологии.
-* Архив: `solar-lowtech-complete-00000.warc.gz`.
+* Архив: [`solar-lowtech-complete-00000.warc.gz`](https://drive.google.com/file/d/1QnF9xa7lPiJ2aFKx8ol8_ByRQdvNKyKJ/view?usp=drive_link).
 * **ArchiveReady: 73%**
 
   * Сильные стороны: Metadata 100%, Cohesion 83%
@@ -127,7 +127,7 @@
 
 
 * Проект: журнал и документация творческого коллектива.
-* Архив: `100r-co-00000.warc.gz`.
+* Архив: [`100r-co-00000.warc.gz`](https://drive.google.com/file/d/1Di0ttaTvDFRCKSXeARChUU3pLm7M2_da/view?usp=drive_link).
 * **ArchiveReady: 85%**
 
   * Cohesion: 100%
@@ -144,7 +144,7 @@
 
 
 * Проект: мини-страница визуально-игрового характера.
-* Архив: `cat-bounce-message.warc.gz` (очень малый объём).
+* Архив: [`cat-bounce-message.warc.gz`](https://drive.google.com/file/d/1OMOniv3eRriO2oEo32vb3GOW4suOo0b8/view?usp=drive_link).
 * **ArchiveReady: 70%**
 
   * Metadata: 100%
