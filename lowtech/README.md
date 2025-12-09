@@ -36,10 +36,10 @@
   <img width="585" height="307" alt="lowtecharchive" src="https://github.com/user-attachments/assets/18ca4f0e-5c68-4a8b-ac80-0657a0e03966" />
 </p>
 
-Этот раздел содержит результаты анализа архивируемости сайта **solar.lowtechmagazine.com** с использованием сервиса **ArchiveReady**, основанного на методологии **CLEAR** (Cohesion, Accessibility, Metadata, Standards Compliance).
+Этот раздел содержит результаты анализа архивируемости сайта solar.lowtechmagazine.com с использованием сервиса ArchiveReady, основанного на методологии **CLEAR** (Cohesion, Accessibility, Metadata, Standards Compliance).
 Анализ позволяет оценить, насколько сайт пригоден для долгосрочного веб-архивирования с учётом технических ограничений, структуры контента и корректности разметки.
 
-## Результаты
+### Результаты
 
 * **Итоговый рейтинг:** **73%**
 * **Accessibility:** 56%
