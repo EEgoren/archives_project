@@ -21,7 +21,7 @@
 
 ---
 
-## Archive Ready
+## ArchiveReady
 
 Этот раздел содержит результаты анализа архивируемости страницы с помощью сервиса ArchiveReady, основанного на методологии CLEAR (Cohesion, Accessibility, Metadata, Standards Compliance).
 
