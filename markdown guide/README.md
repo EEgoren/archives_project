@@ -120,11 +120,11 @@ MarkdownGuide - хороший пример статического, струк
 
 ### 2 `metawarc metadata --output markdown_guide_meta.jsonl markdown-guide-complete.warc.gz`
 
-Файл метаданных (`markdown_guide_meta.jsonl`)[https://github.com/EEgoren/archives_project/blob/main/markdown%20guide/markdown_guide_meta.jsonl] содержит построчные метаданные большого количества изображений и HTML-страниц.
+Файл метаданных **[`markdown_guide_meta.jsonl`](https://github.com/EEgoren/archives_project/blob/main/markdown%20guide/markdown_guide_meta.jsonl)** содержит построчные метаданные большого количества изображений и HTML-страниц.
 
 ### 3 `metawarc index markdown-guide-complete.warc.gz`
 
-База данных (`metawarc.db`)[https://github.com/EEgoren/archives_project/blob/main/markdown%20guide/metawarc.db] успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента).
+База данных **[`metawarc.db`](https://github.com/EEgoren/archives_project/blob/main/markdown%20guide/metawarc.db)** успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента).
 
 ### 4 `metawarc stats -m mimes`
 
