@@ -59,9 +59,9 @@
 
 Каждая папка содержит:
 
-* **README.md** — подробный отчёт по `wpull`, `ArchiveReady` и `metawarc`
-* ***_meta.jsonl** — метаданные WARC-файла
-* **metawarc.db** — индексная база
+* **README.md** - подробный отчёт по `wpull`, `ArchiveReady` и `metawarc`
+* ***_meta.jsonl** - метаданные WARC-файла
+* **metawarc.db** - индексная база
 * **WARC-файл** или ссылка на него
 * скриншоты:
 
