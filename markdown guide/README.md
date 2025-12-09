@@ -100,9 +100,9 @@ MarkdownGuide - хороший пример статического, струк
 ## MetaWarc
 
 
-metawarc analyze markdown-guide-complete.warc.gz
+### 3 `metawarc analyze markdown-guide-complete.warc.gz`
 
-| MIME-тип                     | files | size     | share      |
+| mimes                     | files | size     | share      |
 |------------------------------|-------|----------|------------|
 | image/png                    | 74    | 4242691  | 45.9665%   |
 | image/jpeg                   | 3     | 2029608  | 21.9893%   |
@@ -114,11 +114,11 @@ metawarc analyze markdown-guide-complete.warc.gz
 | image/svg+xml                | 8     | 21264    | 0.23038%   |
 | application/octet-stream     | 1     | 2717     | 0.0294367% |
 | image/x-icon                 | 1     | 1944     | 0.0210618% |
-| **#total**                   | 195   | 9229964  | **100%**   |
+| #total                   | 195   | 9229964  | 100%   |
 
+Основной объём архива составляет графика: PNG-изображения занимают почти 46%, а JPEG — ещё около 22%. HTML-страницы чуть более 15% общего размера, что отражает характер сайта как преимущественно текстового ресурса с большим количеством встроенных иллюстраций. В целом, распределение типично для статического сайта-документации с богатым визуальным оформлением и минимальным количеством тяжёлых скриптов.
 
-
-metawarc metadata --output markdown_guide_meta.jsonl markdown-guide-complete.warc.gz
+### 2 `metawarc metadata --output markdown_guide_meta.jsonl markdown-guide-complete.warc.gz`
 
 
 
