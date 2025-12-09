@@ -58,7 +58,7 @@ HTML и CSS в целом соответствуют стандартам (Stand
 ### 1 `metawarc analyze cat-bounce-message.warc.gz`
 
 
-| MIME-тип     | files | size      | share      |
+| mimes    | files | size      | share      |
 |--------------|-------|-----------|------------|
 |  | 2     | 1 532 166 | 37.4383%   |
 | image/jpeg   | 10    | 1 327 868 | 32.4463%   |
@@ -81,7 +81,7 @@ HTML и CSS в целом соответствуют стандартам (Stand
 ### 4 `metawarc stats -m mimes`
 
 
-| MIME-тип   | size      | count |
+| mime  | size      | count |
 |------------|-----------|-------|
 | None       | 1 532 166 | 2     |
 | image/gif  | 1 188 571 | 1     |
