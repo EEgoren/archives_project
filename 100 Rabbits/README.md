@@ -37,6 +37,8 @@
 
 Этот раздел содержит результаты анализа архивируемости сайта 100r.co с помощью сервиса ArchiveReady, использующего методологию CLEAR (Cohesion, Accessibility, Metadata, Standards Compliance).
 
+Анализ помогает оценить, насколько эта страница пригодна для долгосрочного веб-архивирования и какие аспекты сайта могут вызывать трудности для инструментов сохранения.
+
 <p align="center">
 <img width="592" height="320" alt="100rarchive" src="https://github.com/user-attachments/assets/196958ce-9d46-4ac6-ab81-d58652f39580" />
 </p>
