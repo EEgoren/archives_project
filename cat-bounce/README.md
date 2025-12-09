@@ -33,7 +33,7 @@
 <img width="583" height="310" alt="image" src="https://github.com/user-attachments/assets/abd1e826-5fbf-4c85-a19b-205d1ab05cf5" />
 </p>
 
-## Результаты
+### Результаты
 
 * **Итоговый рейтинг:** **70%**
 * **Accessibility:** 47%
