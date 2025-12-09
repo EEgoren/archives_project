@@ -62,7 +62,7 @@
 
 ### 3 `metawarc index airport-level1.warc.gz`
 
-В результате создана служебная база данных **[`metawarc.db`]()** содержащая HTTP метаданные для использования командой stats
+В результате создана служебная база данных **[`metawarc.db`](https://github.com/EEgoren/archives_project/blob/main/airportcod.es/metawarc.db)** содержащая HTTP метаданные для использования командой stats
 
 ### 4 `metawarc stats -m mimes`
 
