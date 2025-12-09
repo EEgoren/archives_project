@@ -58,9 +58,11 @@
 
 ### 2 `metawarc metadata --output airport_meta.jsonl airport-level1.warc.gz `
 
+Файл метаданных **[`airport_meta.jsonl`]()** содержит построчные метаданные большого количества изображений и HTML-страниц.
 
 ### 3 `metawarc index airport-level1.warc.gz`
 
+В результате создана служебная база данных **[`metawarc.db`]()** содержащая HTTP метаданные для использования командой stats
 
 ### 4 `metawarc stats -m mimes`
 
