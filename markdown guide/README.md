@@ -124,7 +124,7 @@ MarkdownGuide - хороший пример статического, струк
 
 ### 3 `metawarc index markdown-guide-complete.warc.gz`
 
-База данных (`metawarc.db`)[] успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента).
+База данных (`metawarc.db`)[https://github.com/EEgoren/archives_project/blob/main/markdown%20guide/metawarc.db] успешно создана и фиксирует ключевые параметры всех ресурсов: MIME-типы, размеры, даты и URL. Она позволяет выполнять расширенный анализ (stats, выборки по типам контента).
 
 ### 4 `metawarc stats -m mimes`
 
