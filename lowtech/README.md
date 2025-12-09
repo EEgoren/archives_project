@@ -65,7 +65,7 @@
 
 ### 1. `metawarc analyze solar-lowtech-complete-00000.warc.gz`
 
-| MIME-тип                 | files | size       | share      |
+| mimes                | files | size       | share      |
 |--------------------------|-------|------------|------------|
 | image/webp               | 5822  | 504 585 914 | 56.508    |
 | image/png                | 5926  | 249 375 202 | 27.9272   |
@@ -77,7 +77,7 @@
 | image/svg+xml            | 2     | 4 995       | 0.000559  |
 | application/json         | 1     | 764         | 0.000085  |
 | text/plain               | 1     | 209         | 0.000023  |
-| **#total**               | 14610 | 892 945 849 | 100      |
+| #total               | 14610 | 892 945 849 | 100      |
 
 
 Структура архива solar.lowtechmagazine.com показывает преобладание изображений - особенно WebP (56%) и PNG (28%). HTML составляет лишь 7%, а остальные типы данных почти не влияют на общий объём. Архив - ярко выраженный графический, с минимальным количеством кода.
@@ -92,7 +92,7 @@
 
 ### 4. `metawarc stats -m mimes`
 
-| MIME-тип                                 | size       | count |
+| mime                                 | size       | count |
 |-------------------------------------------|------------|-------|
 | application/javascript; charset=UTF-8     | 12 030     | 2     |
 | application/json                          | 764        | 1     |
