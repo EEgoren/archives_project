@@ -23,8 +23,9 @@
 
 ## Archive Ready
 
+<p align="center">
 <img width="595" height="302" alt="image" src="https://github.com/user-attachments/assets/c0295fe2-f0d4-4884-aa8e-1a9540bdf3c6" />
-
+</p>
 Этот раздел содержит результаты анализа архивируемости страницы с помощью сервиса ArchiveReady, основанного на методологии CLEAR (Cohesion, Accessibility, Metadata, Standards Compliance).
 
 Анализ помогает оценить, насколько эта страница пригодна для долгосрочного веб-архивирования и какие аспекты сайта могут вызывать трудности для инструментов сохранения.
