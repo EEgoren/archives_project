@@ -115,8 +115,10 @@
 * Архив: [`solar-lowtech-complete-00000.warc.gz`](https://drive.google.com/file/d/1QnF9xa7lPiJ2aFKx8ol8_ByRQdvNKyKJ/view?usp=drive_link).
 * **ArchiveReady: 73%**
 
-  * Сильные стороны: Metadata 100%, Cohesion 83%
-  * Слабые стороны: Standards 53%, Accessibility 56%
+  * Metadata 100%
+  * Cohesion 83%
+  * Standards 53%
+  * Accessibility 56%
 * **Структура архива:** 56% WebP, 28% PNG, 7% HTML.
 * Характер: высокографичный статичный сайт, большой объём.
 
