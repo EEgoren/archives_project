@@ -1,0 +1,60 @@
+AirportCodes.es Archive Report 
+============================= 
+ 
+ARCHIVE SUMMARY 
+-------------- 
+Archive created: 24.11.2025 15:13:31,92 
+Source: https://airportcod.es 
+Command: wpull "https://airportcod.es" --recursive --level 2 --page-requisites --no-robots --no-check-certificate --warc-file "airport-codes" --warc-cdx --database "site-archive.db" --delete-after --wait 1 
+ 
+FILES GENERATED 
+-------------- 
+ Том в устройстве C имеет метку ADL900PRO1
+ Серийный номер тома: 8803-289E
+
+ Содержимое папки C:\Archives\airportcod
+
+24.11.2025  14:13       110 588 706 airport-level1.warc.gz
+
+ Содержимое папки C:\Archives\airportcod
+
+24.11.2025  14:13           661 439 airport-level1.cdx
+
+ Содержимое папки C:\Archives\airportcod
+
+24.11.2025  14:13           667 648 site-archive.db
+               3 файлов    111 917 793 байт
+               0 папок  1 457 583 001 600 байт свободно
+ 
+FILE SIZES 
+---------- 
+110588706 bytes - airport-level1.warc.gz 
+661439 bytes - airport-level1.cdx 
+667648 bytes - site-archive.db 
+ 
+DATABASE STATISTICS 
+------------------ 
+Total URLs processed: 3789
+Successfully downloaded: 3784
+URLs with errors: 0
+URLs in WARC files: 0
+ 
+CONTENT BREAKDOWN 
+---------------- 
+Airport pages: 1256
+Main pages: 2528
+ 
+SAMPLE AIRPORT PAGES 
+------------------- 
+https://airportcod.es/airport/bjm/
+https://airportcod.es/airport/mga/
+https://airportcod.es/airport/bda/
+https://airportcod.es/airport/aga/
+https://airportcod.es/airport/uus/
+https://airportcod.es/airport/phl/
+https://airportcod.es/airport/mst/
+https://airportcod.es/airport/ter/
+https://airportcod.es/airport/bmi/
+https://airportcod.es/airport/bwi/
+ 
+ARCHIVE COMPLETED SUCCESSFULLY 
