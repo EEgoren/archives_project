@@ -20,27 +20,10 @@
 
 ## Wpull
 
-Этот раздел содержит результаты архивации сайта **solar.lowtechmagazine.com** с помощью инструмента массовой загрузки **Wpull**.
-Архивирование выполнялось с рекурсией, загрузкой всех зависимостей и формированием WARC, CDX и служебной базы данных.
+Этот раздел содержит результаты архивации сайта solar.lowtechmagazine.com с помощью инструмента массовой загрузки Wpull.
+Архивирование выполнялось с рекурсией, загрузкой всех зависимостей и формированием WARC, CDX и служебной базы данных. Большой объём объясняется обилием изображений
 
-## Результаты
-
-### Размеры файлов
-
-* **Основной WARC:** `solar-lowtech-complete-00000.warc.gz` — 807 МБ
-* **Meta-WARC:** `solar-lowtech-complete-meta.warc.gz` — 625 КБ
-* **CDX-индекс:** `solar-lowtech-complete.cdx` — 4,3 МБ
-* **База данных:** `site-archive.db` — 7,2 МБ
-
-### Статистика архивации
-
-* **Всего URL обработано:** 18 715
-
-* **Успешно скачано:** 14 463
-
-* **Ошибок:** 0
-
-Большой объём объясняется обилием изображений
+В результате создан файл **[solar-lowtech-complete-00000.warc.gz](https://drive.google.com/file/d/1QnF9xa7lPiJ2aFKx8ol8_ByRQdvNKyKJ/view?usp=sharing)**
 
 <p align="center">
   <img width="1836" height="863" alt="lowtechcoffee" src="https://github.com/user-attachments/assets/7584ca2a-1786-420d-bf18-f46b81bc054a" />
