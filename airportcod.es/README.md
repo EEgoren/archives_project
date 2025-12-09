@@ -58,7 +58,7 @@
 
 ### 2 `metawarc metadata --output airport_meta.jsonl airport-level1.warc.gz `
 
-Файл метаданных **[`airport_meta.jsonl`]()** содержит построчные метаданные большого количества изображений и HTML-страниц.
+Файл метаданных **[`airport_meta.jsonl`](https://github.com/EEgoren/archives_project/blob/main/airportcod.es/airport_meta.jsonl)** содержит построчные метаданные большого количества изображений и HTML-страниц.
 
 ### 3 `metawarc index airport-level1.warc.gz`
 
