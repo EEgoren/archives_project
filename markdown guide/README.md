@@ -19,7 +19,7 @@
 
 ## Wpull
 
-Этот раздел содержит результаты архивации сайта MarkdownGuide.org** с помощью инструмента массовой загрузки Wpull.
+Этот раздел содержит результаты архивации сайта MarkdownGuide.org с помощью инструмента массовой загрузки Wpull.
 Была выполнена рекурсивная загрузка основных страниц справочника, таблиц стилей, изображений, JSON-документации.
 
 В результате создан файл **[markdown-guide-complete.warc.gz](https://drive.google.com/file/d/1hAVEuNEKsN3d5e2AYjf32SmNJJORTuCU/view?usp=sharing)**
